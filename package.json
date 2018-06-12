@@ -6,6 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cabral-ricardo/CRUD-Node-Express-Mongo"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "~5.1.11",
+    "request": "~2.87.0"
+  },
   "author": "Ricardo",
   "license": "ISC"
 }
