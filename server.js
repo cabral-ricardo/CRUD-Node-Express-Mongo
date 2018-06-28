@@ -19,7 +19,7 @@ var Produto = require('./app/models/produtos');
 
 // URI: MLab
 mongoose.connect('mongodb://rcabral:rcabral123@ds060649.mlab.com:60649/nodecrudapi', {
-    useMongoClient: true
+    //useMongoClient: true
 });
 
 /*
